@@ -182,4 +182,6 @@ article button{
     display: flex;
     justify-content: end;
     position: absolute;
+    right: 50px;
+    bottom: 50px;
 }
